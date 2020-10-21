@@ -1,0 +1,40 @@
+.container{
+    max-width:600px;
+    min-height:350px;
+    padding:20px;
+    background:#0cc9b0;
+    border-radius:20px;
+}
+.btn{
+    background-color:#47ccf5;
+
+    color:white;
+    outline:none !important ;
+    box-shadow: none !important;
+}
+.btn-focus{
+    outline:none !important ;
+}
+.username{
+    font-weight:bold;
+    color:#7e156c;
+}
+.time{
+    font-size:0.7em;
+    color:#999;
+}
+.list-group-item{
+    border-radius:10px !important ;
+    background:#D3D3D3;
+}
+
+.update-msgr{
+     text-align: center;
+}
+.time{
+    color:424242;
+    
+}
+.message{
+    width:600px !important;
+}
